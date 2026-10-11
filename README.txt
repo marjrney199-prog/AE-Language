@@ -1,0 +1,1 @@
+Conteúdo de aprendizagem gerado e incluído em lib/data/seed_data.dart para funcionar offline. Esta pasta está preparada para futuras lições JSON/áudio locais.
